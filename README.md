@@ -12,7 +12,7 @@ A free, browser-based tool to instantly generate appetizing 2-line descriptions 
 - **Free to Use**: Runs client-side; no costs beyond your API usage (Groq has a generous free tier).
 
 ## How to Use
-1. Visit the live tool: [https://Shrutik2712.github.io/dish-description-generator/zomato_dish_description_generator.html](https://Shrutik2712.github.io/dish-description-generator/zomato_dish_description_generator.html).
+1. Visit the live tool: [https://Shrutik2712.github.io/dish-description-generator/zomato_dish_description_generator.html](https://Shrutik2712.github.io/zomato-dish-description-generator/zomato_dish_description_generator.html).
 2. Get a free Groq API key: Sign up at [console.groq.com](https://console.groq.com) and create a key (takes 1 minute).
 3. Upload your Excel file (.xlsx or .xls) with dish names in Column A (starting from row 1 or 2).
 4. Enter your API key and optional word limit.
